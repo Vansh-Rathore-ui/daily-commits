@@ -1,0 +1,13 @@
+{
+  "name": "daily-github-commit",
+  "version": "1.0.0",
+  "description": "Automated daily commits to maintain GitHub activity streak",
+  "main": "daily-commit.js",
+  "scripts": {
+    "commit": "node daily-commit.js",
+    "test": "node daily-commit.js"
+  },
+  "keywords": ["github", "automation", "daily-commit", "streak"],
+  "author": "Rahul",
+  "license": "MIT"
+}
